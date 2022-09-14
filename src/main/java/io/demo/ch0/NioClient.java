@@ -1,4 +1,4 @@
-package ch0;
+package io.demo.ch0;
 
 import java.io.*;
 import java.net.InetSocketAddress;
